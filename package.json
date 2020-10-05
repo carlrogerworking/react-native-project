@@ -1,0 +1,19 @@
+{
+  "name": "react-native-numberpad",
+  "version": "0.0.2",
+  "description": "A numberpad designed for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattlisiv/react-native-numberpad.git"
+  },
+  "author": "Matt Lisivick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattlisiv/react-native-numberpad/issues"
+  },
+  "homepage": "https://github.com/mattlisiv/react-native-numberpad#readme"
+}
